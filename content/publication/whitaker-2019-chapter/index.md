@@ -1,6 +1,6 @@
 ---
-title: Design and Validation Arguments for the Student Survey Of Motivational
-  Attitudes toward  Statistics (S-SOMAS) Instrument
+title: Design and validation arguments for the Student Survey of Motivational
+  Attitudes toward Statistics (S-SOMAS) instrument
 publication_types:
   - "6"
 authors:
@@ -8,6 +8,8 @@ authors:
   - Alana Unfried
   - Marjorie Bond
 doi: 10.4324/9780429486159-6
+publication: " Assessment in Mathematics Education Contexts: Theoretical
+  Frameworks and New Directions"
 abstract: This chapter describes the development plan for a new survey designed
   to measure students’ attitudes toward statistics aligned with expectancy value
   theory, the S-SOMAS. Included in this description are the context and
