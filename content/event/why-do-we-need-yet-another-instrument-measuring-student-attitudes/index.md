@@ -1,10 +1,21 @@
 ---
 title: Why Do We Need Yet ANOTHER Instrument Measuring Student Attitudes?
-abstract: >-
-  {{<youtube PnLdPlS-BVQ>}}
-
-
-  Attitudes matter in statistics education, and it is crucial for statistics educators to gain a better understanding of student attitudes towards statistics as well as the relationship between these attitudes and student achievement. Through an NSF IUSE grant (DUE-2013392), the authors are developing a new attitudinal instrument, the Student Survey of Motivational Attitudes toward Statistics (S-SOMAS), to quantify these attitudes. We will share our rationale for developing yet another instrument measuring statistics attitudes, and we will discuss the results of the pilot survey administration from Spring 2021, including psychometric properties as well as a summary of student attitudes. We will also discuss the goals for the remainder of the grant, which include the development of statistics instructor and environment survey instruments, as well as three parallel surveys for data science. In addition, we will present the theoretical framework for these instruments, Expectancy Value Theory (Eccles et al., 1983). Statistics and data science instructors and educational researchers are encouraged to contact the authors for involvement with data collection in future phases of the project. 
+abstract: "Attitudes matter in statistics education, and it is crucial for
+  statistics educators to gain a better understanding of student attitudes
+  towards statistics as well as the relationship between these attitudes and
+  student achievement. Through an NSF IUSE grant (DUE-2013392), the authors are
+  developing a new attitudinal instrument, the Student Survey of Motivational
+  Attitudes toward Statistics (S-SOMAS), to quantify these attitudes. We will
+  share our rationale for developing yet another instrument measuring statistics
+  attitudes, and we will discuss the results of the pilot survey administration
+  from Spring 2021, including psychometric properties as well as a summary of
+  student attitudes. We will also discuss the goals for the remainder of the
+  grant, which include the development of statistics instructor and environment
+  survey instruments, as well as three parallel surveys for data science. In
+  addition, we will present the theoretical framework for these instruments,
+  Expectancy Value Theory (Eccles et al., 1983). Statistics and data science
+  instructors and educational researchers are encouraged to contact the authors
+  for involvement with data collection in future phases of the project. "
 location: Virtual
 date: 2021-08-12T14:00:44.927Z
 date_end: 2021-08-12T15:50:00.000Z
@@ -29,3 +40,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+{{<youtube PnLdPlS-BVQ>}}
