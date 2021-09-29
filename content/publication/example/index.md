@@ -49,11 +49,12 @@ tags:
   - EVT
 projects: []
 image:
-  caption: "Heatmaps showing the number of responses in each cell to the three
-    ESG-type items designed for this study. "
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png
+  alt_text: "Heatmaps showing the number of responses in each cell to the two
+    ESG-type items designed for this study. "
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
