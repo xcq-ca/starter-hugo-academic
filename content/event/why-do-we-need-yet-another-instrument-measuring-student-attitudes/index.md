@@ -25,6 +25,16 @@ event_url: https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetail
 publishDate: 2021-09-29T22:12:44.948Z
 draft: false
 featured: false
+authors:
+  - Alana Unfried
+  - Leyla Batakci
+  - admin
+tags:
+  - S-SOMAS
+  - stat-ed
+  - attitudes
+projects:
+  - masder
 image:
   filename: featured
   focal_point: Smart
