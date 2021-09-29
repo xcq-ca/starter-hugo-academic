@@ -51,7 +51,7 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.png
   alt_text: "Heatmaps showing the number of responses in each cell to the two
     ESG-type items designed for this study. "
