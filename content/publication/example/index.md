@@ -57,5 +57,5 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: "https://doi.org/10.31756/jrsmte.511 "
+doi: "10.31756/jrsmte.511 "
 ---
