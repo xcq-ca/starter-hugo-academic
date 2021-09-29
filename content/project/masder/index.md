@@ -15,8 +15,10 @@ tags:
   - attitudes
   - survey
   - S-SOMAS
-categories:
-  - Instrument Development
+  - instrument development
+categories: []
+links:
+  - url: http://sdsattitudes.com/
 image:
   filename: featured
   focal_point: Smart
