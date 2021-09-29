@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor
     company: Mount Saint Vincent University
     company_url: https://www.msvu.ca/
-    company_logo: logo-msvu.png
+    company_logo: logo-msvu
     location: Halifax, Nova Scotia
     date_start: 2018-08-01
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Assistant Professor
     company: University of Wisconsin-Stout
     company_url: https://www.uwstout.edu/
-    company_logo: logo-stout.png
+    company_logo: logo-stout2
     location: Menomonie, Wisconsn
     date_start: 2016-08-22
     date_end: 2018-07-31
