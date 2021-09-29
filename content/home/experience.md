@@ -40,9 +40,9 @@ experience:
     company: University of Wisconsin-Stout
     company_url: 'https://www.uwstout.edu/'
     company_logo: logo-stout
-    location: California
-    date_start: '2016-08-22'
-    date_end: '2018-07-31'
+    location: Menomonie, Wisconsn
+    date_start: 2016-08-22
+    date_end: 2018-07-31
     description: Taught and researched.
 
 design:
