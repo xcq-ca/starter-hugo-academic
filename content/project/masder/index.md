@@ -19,6 +19,7 @@ tags:
 categories: []
 links:
   - url: http://sdsattitudes.com/
+    name: Project Site
 image:
   filename: featured
   focal_point: Smart
