@@ -47,7 +47,8 @@ tags:
   - survey
   - statistics
   - EVT
-projects: []
+projects:
+  - grid-items
 image:
   caption: ""
   focal_point: ""
