@@ -29,12 +29,12 @@ experience:
     location: Halifax, Nova Scotia
     date_start: 2018-08-01
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
         
   - title: Assistant Professor
     company: University of Wisconsin-Stout
@@ -43,8 +43,15 @@ experience:
     location: Menomonie, Wisconsn
     date_start: 2016-08-22
     date_end: 2018-07-31
-    description: Taught and researched.
+#    description: Taught and researched.
 
+  - title: Pre-Doctoral Fellow
+    company: University of Florida
+    company_url: https://www.ufl.edu/
+    company_logo: logo-ufl
+    location: Gainesville, Florida
+    date_start: 2012-08-22
+    date_end: 2016-08-09
 design:
   columns: '2'
 ---
