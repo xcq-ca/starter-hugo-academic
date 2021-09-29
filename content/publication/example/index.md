@@ -1,87 +1,61 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: "Challenges to measuring students’ attitudes toward statistics remain
+  despite decades of focused research. Measuring the expectancy-value theory
+  (EVT) Cost construct has been especially challenging owing in part to the
+  historical lack of research about it. To measure the EVT Cost construct
+  better, this study asked university students to respond to items using both a
+  Likert-type response and an Evaluative Space Grid (ESG)-type response. ESG
+  items enable bivariate responses in a single item and permit distinguishing
+  among two different types of neutral attitudes: indifferent and ambivalent.
+  This pilot study evaluates the appropriateness of ESG-type items for measuring
+  the EVT Cost construct by analyzing student response patterns to ESG-type
+  items and comparing them with Likert-type items. Validity evidence is
+  documented using descriptive statistics and graphs, correlations among items,
+  and a trinomial hypothesis test. Internal consistency reliability indices are
+  also reported. Friedman’s Test is used to compare the average response times
+  for items of different types. Results indicate that students can meaningfully
+  respond to ESG-type items in ways that are similar to their Likert-type
+  responses, that students respond to ESG-type items quicker with more practice,
+  and that distinguishing among indifferent and ambivalent attitudes seems
+  appropriate for the EVT Cost construct. These findings suggest that ESG-type
+  items may provide new insights not possible with Likert-type items but also
+  that more research should be conducted to better understand their advantages
+  and disadvantages within statistics education."
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - admin
+  - JosephBarss
+  - BaileyDrew
+summary: ""
+url_dataset: ""
+url_project: ""
+author_notes: []
+publication_short: In *JRSMTE*
+url_source: ""
+url_video: ""
+publication: In *Journal of Research in Science Mathematics and Technology Education*
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+date: 2021-09-20T00:00:00.000Z
+url_slides: ""
+title: Measuring opportunity cost in statistics using evaluative space grid items
+subtitle: Results from a pilot study
+tags:
+  - ESG
+  - survey
+  - statistics
+  - EVT
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Heatmaps showing the number of responses in each cell to the three
+    ESG-type items designed for this study. "
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: 2021-09-29-18_27_31-window.png
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: "https://doi.org/10.31756/jrsmte.511 "
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
