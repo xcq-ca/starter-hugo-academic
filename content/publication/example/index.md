@@ -27,13 +27,13 @@ publication_types:
   - "2"
 authors:
   - admin
-  - JosephBarss
-  - BaileyDrew
+  - Joseph Barss
+  - Bailey Drew
 summary: ""
 url_dataset: ""
 url_project: ""
 author_notes: []
-publication_short: In *JRSMTE*
+publication_short: ""
 url_source: ""
 url_video: ""
 publication: In *Journal of Research in Science Mathematics and Technology Education*
