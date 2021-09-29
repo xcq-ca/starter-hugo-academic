@@ -53,8 +53,8 @@ image:
     ESG-type items designed for this study. "
   focal_point: ""
   preview_only: false
-  filename: 2021-09-29-18_27_31-window.png
-publishDate: 2017-01-01T00:00:00Z
+  filename: featured.png
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: "https://doi.org/10.31756/jrsmte.511 "
