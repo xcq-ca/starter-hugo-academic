@@ -40,8 +40,9 @@ publication: In *Journal of Research in Science Mathematics and Technology Educa
 featured: true
 date: 2021-09-20T00:00:00.000Z
 url_slides: ""
-title: Measuring opportunity cost in statistics using evaluative space grid items
-subtitle: Results from a pilot study
+title: "Measuring opportunity cost in statistics using evaluative space grid
+  items: results from a pilot study"
+subtitle: ""
 tags:
   - ESG
   - survey
@@ -52,7 +53,7 @@ projects:
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: featured.png
   alt_text: "Heatmaps showing the number of responses in each cell to the two
     ESG-type items designed for this study. "
