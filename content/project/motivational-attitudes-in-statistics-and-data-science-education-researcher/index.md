@@ -1,5 +1,5 @@
 ---
-title: Motivational Attitudes in Statistics and Data Science Education Researcher
+title: Motivational Attitudes in Statistics and Data Science Education Research
 date: 2021-09-29T22:07:47.744Z
 summary: "I am a member of the Motivational Attitudes in Statistics and Data
   Science Education Research (MASDER) group. While there are many interconnected
