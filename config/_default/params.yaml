@@ -141,8 +141,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: 'mapbox'
+  api_key: 'pk.eyJ1IjoiZGN3aGl0YWtlciIsImEiOiJja3U2YmQyYWkwNG43Mm9uejE3em02NnJrIn0.U-2TCjnrLG_yeDMgNe1mhw'
   zoom: 15
 marketing:
   google_analytics: ''
