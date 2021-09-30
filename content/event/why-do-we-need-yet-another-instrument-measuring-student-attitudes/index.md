@@ -16,7 +16,7 @@ abstract: "Attitudes matter in statistics education, and it is crucial for
   Expectancy Value Theory (Eccles et al., 1983). Statistics and data science
   instructors and educational researchers are encouraged to contact the authors
   for involvement with data collection in future phases of the project. "
-location: Virtual
+location: Virtual (JSM 2021)
 date: 2021-08-12T14:00:44.927Z
 date_end: 2021-08-12T15:50:00.000Z
 all_day: false
