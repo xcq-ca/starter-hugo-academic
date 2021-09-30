@@ -20,6 +20,9 @@ location: Virtual (IASE Satellite 2021)
 date: 2021-09-02T22:10:15.413Z
 date_end: 2021-09-02T22:30:00.000Z
 all_day: true
+links:
+  - name: Slides
+    url: whitaker-2021-iase-slides.pdf
 event: International Association for Statistical Education 2021 Satellite Conference
 event_url: https://whova.com/embedded/subsession/ipcco_202108/1900697/1900700/
 publishDate: 2021-09-02T22:10:00.000Z
