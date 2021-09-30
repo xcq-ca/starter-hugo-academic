@@ -4,7 +4,6 @@ date: 2021-09-30T15:11:55.933Z
 draft: false
 featured: false
 tags:
-  - other
   - inactive
   - applied statistics
   - agriculture

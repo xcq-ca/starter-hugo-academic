@@ -7,7 +7,6 @@ draft: false
 featured: false
 weight: 99
 tags:
-  - other
   - applied statistics
   - inactive
   - agriculture
