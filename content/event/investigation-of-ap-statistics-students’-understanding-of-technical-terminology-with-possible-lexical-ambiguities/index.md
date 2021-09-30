@@ -41,7 +41,7 @@ tags:
 projects:
   - lexical-ambiguities
 image:
-  filename: ""
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
