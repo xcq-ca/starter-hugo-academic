@@ -11,7 +11,7 @@ links:
   - url: https://sites.ced.ncsu.edu/mathedmeasures/
     name: Project Site
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
