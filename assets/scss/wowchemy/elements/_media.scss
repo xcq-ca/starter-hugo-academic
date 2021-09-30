@@ -32,7 +32,7 @@ video {
 
 /* Smooth transition for image zoom on hover */
 .img-hover-zoom img {
-  transition: transform 0.0s ease-in-out;
+  transition: transform 0.0s;
 }
 
 /* Transform the image scale when container gets hovered */
