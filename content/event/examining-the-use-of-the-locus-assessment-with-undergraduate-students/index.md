@@ -29,7 +29,8 @@ tags:
   - LOCUS
   - stat-ed
   - knowledge
-projects: []
+projects:
+  - locus
 image:
   filename: featured
   focal_point: Smart
