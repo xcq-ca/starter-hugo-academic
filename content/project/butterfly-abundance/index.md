@@ -9,10 +9,10 @@ tags:
   - applied statistics
   - agriculture
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: ""
-  alt_text: ""
+  caption: Photo by Shiebi AL on Unsplash
+  alt_text: Butterflies. Photo by Shiebi AL on Unsplash
 weight: 99
 ---
