@@ -12,7 +12,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: Photo by Gary Yost on Unsplash
-  alt_text: Zebra Butterfly. Photo by Gary Yost on Unsplash
+  caption: Photo by Shiebi AL on Unsplash
+  alt_text: Butterflies. Photo by Shiebi AL on Unsplash
 weight: 99
 ---
