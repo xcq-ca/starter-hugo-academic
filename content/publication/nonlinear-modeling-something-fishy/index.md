@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - admin
-publication: Statistics Teacher
+publication: "*Statistics Teacher*"
 abstract: >-
   In this lesson by Douglas Whitaker, students explore nonlinear regression
   models to explain fish weight by using fish length. They will use both
