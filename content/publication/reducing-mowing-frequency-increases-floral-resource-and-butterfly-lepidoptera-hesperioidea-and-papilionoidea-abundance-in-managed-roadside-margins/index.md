@@ -35,7 +35,7 @@ abstract: "Roads are common in natural landscapes and can have significant
   numbers. Future studies in different regions would benefit from considering
   the effects of time of year of mowing in addition to the frequency."
 draft: false
-featured: true
+featured: false
 tags:
   - applied statistics
   - agriculture
