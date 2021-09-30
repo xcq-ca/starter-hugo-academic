@@ -10,7 +10,7 @@ authors:
   - Douglas C. Whitaker
   - Lei Huang
 doi: 10.1653/024.098.0412
-publication: "*Florida Entomologist, 98*(4), 1081-1092. "
+publication: "*Florida Entomologist, 98*(4), 1081-1092"
 abstract: "Roads are common in natural landscapes and can have significant
   impacts on wildlife. Most studies have focused on vertebrates and primarily
   addressed the negative impacts of roads. However, roadside margins have the
