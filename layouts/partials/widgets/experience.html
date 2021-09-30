@@ -36,11 +36,9 @@
           {{ if not $svg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/brands/%s.svg`" .company_logo }}{{end}}
           <div class="d-flex align-content-start">
             <div class="mr-2 mb-2">
-			<div class="align-middle">
               {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
-              <img src="{{ $svg_icon.RelPermalink }}" width="128px" height="128px" alt="{{.company | plainify}}">
+              <img class="center-block" src="{{ $svg_icon.RelPermalink }}" width="128px" height="128px" alt="{{.company | plainify}}">
               {{- with .company_url}}</a>{{end -}}
-			  </div>
             </div>
             <div>
           {{ end }}
