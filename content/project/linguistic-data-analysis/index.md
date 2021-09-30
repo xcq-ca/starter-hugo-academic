@@ -8,7 +8,9 @@ tags:
   - inactive
   - linguistics
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: "Image by CSTRSK from Pixabay "
+  alt_text: "Sound wave. Image by CSTRSK from Pixabay "
 ---
