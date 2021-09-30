@@ -10,9 +10,9 @@ tags:
   - linguistics
   - other
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
-  caption: Image by Gerd Altmann from Pixabay
-  alt_text: Magnifying glass surrounded by letters. Image by Gerd Altmann from Pixabay
+  caption: ""
+  alt_text: ""
 ---
