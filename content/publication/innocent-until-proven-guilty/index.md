@@ -15,7 +15,7 @@ tags:
 projects:
   - teaching-activities
 image:
-  filename: iupg.gif
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2016-05-01T17:36:50.669Z
