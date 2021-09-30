@@ -33,6 +33,8 @@ content:
     tag: attitudes
   - name: Teaching
     tag: teaching
+  - name: Consulting
+    tag: applied statistics
   - name: Other
     tag: other
 
