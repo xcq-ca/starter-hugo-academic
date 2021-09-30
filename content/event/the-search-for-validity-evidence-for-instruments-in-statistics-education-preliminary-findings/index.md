@@ -36,7 +36,6 @@ authors:
 tags:
   - stat-ed
   - validity
-  - ""
 projects:
   - vm2ed
 image:
