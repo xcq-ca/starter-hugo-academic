@@ -8,7 +8,8 @@ tags:
   - applied statistics
   - inactive
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  alt_text: Photo by Philippe Gauthier on Unsplash
 ---
