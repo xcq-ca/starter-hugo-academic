@@ -40,7 +40,7 @@ experience:
     company: University of Wisconsin-Stout
     company_url: https://www.uwstout.edu/
     company_logo: logo-stout
-    location: Menomonie, Wisconsn
+    location: Menomonie, Wisconsin
     date_start: 2016-08-22
     date_end: 2018-07-31
 #    description: Taught and researched.
@@ -52,6 +52,14 @@ experience:
     location: Gainesville, Florida
     date_start: 2012-08-22
     date_end: 2016-08-09
+	
+  - title: Graduate Assistant
+    company: University of Florida
+    company_url: https://www.ufl.edu/
+    company_logo: logo-ufl
+    location: Gainesville, Florida
+	date_start: 2010-08-23
+    date_end: 2012-08-21
 design:
   columns: '2'
 ---
