@@ -33,6 +33,11 @@ authors:
 tags:
   - stat-ed
   - linguistics
+links:
+  - name: Poster
+    url: whitaker-2014-poster.pdf
+  - name: Abstract
+    url: whitaker-2014-poster-abstract.pdf
 projects:
   - lexical-ambiguities
 image:
