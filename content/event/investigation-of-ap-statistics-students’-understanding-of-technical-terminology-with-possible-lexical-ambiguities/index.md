@@ -21,6 +21,11 @@ location: Flagstaff, Arizona (ICOTS 9)
 date: 2014-07-15T11:30:52.052Z
 date_end: 2014-07-15T12:10:00.000Z
 all_day: true
+links:
+  - name: Poster
+    url: whitaker-2014-poster.pdf
+  - name: Abstract
+    url: whitaker-2014-poster-abstract.pdf
 event: Ninth International Conference on Teaching Statistics
 event_url: https://icots.info/9/posters.php?p=13#p8
 publishDate: 2014-07-15T12:10:00.000Z
@@ -33,15 +38,10 @@ authors:
 tags:
   - stat-ed
   - linguistics
-links:
-  - name: Poster
-    url: whitaker-2014-poster.pdf
-  - name: Abstract
-    url: whitaker-2014-poster-abstract.pdf
 projects:
   - lexical-ambiguities
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
