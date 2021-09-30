@@ -17,7 +17,7 @@ abstract: In order to model and understand best practices in Statistics and Data
 location: Virtual (USCOTS 2021)
 date: 2021-07-01T17:45:00.000Z
 date_end: 2021-07-01T18:30:00.000Z
-all_day: false
+all_day: true
 event: United States Conference on Teaching Statistics 2021
 event_url: https://www.causeweb.org/cause/uscots/uscots21/th-13-somasds-measuring-learning-environment-instructor-and-student
 publishDate: 2021-07-01T17:45:26.500Z
