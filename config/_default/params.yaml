@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: douglas.whitaker@msvu.ca
+email: firstname "dot" lastname "at" msvu "dot" edu
 #phone: 888 888 88 88
 address:
   street: Evaristus 357, 166 Bedford Highway
@@ -143,7 +143,7 @@ search:
 map:
   provider: 'mapbox'
   api_key: 'pk.eyJ1IjoiZGN3aGl0YWtlciIsImEiOiJja3U2YmQyYWkwNG43Mm9uejE3em02NnJrIn0.U-2TCjnrLG_yeDMgNe1mhw'
-  zoom: 30
+  zoom: 10
 marketing:
   google_analytics: ''
   google_tag_manager: ''
