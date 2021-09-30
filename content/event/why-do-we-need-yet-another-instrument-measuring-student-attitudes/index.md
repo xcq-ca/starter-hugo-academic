@@ -19,7 +19,7 @@ abstract: "Attitudes matter in statistics education, and it is crucial for
 location: Virtual (JSM 2021)
 date: 2021-08-12T14:00:44.927Z
 date_end: 2021-08-12T15:50:00.000Z
-all_day: false
+all_day: true
 event: Joint Statistics Meetings 2021
 event_url: https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=318913
 publishDate: 2021-09-29T22:12:44.948Z
