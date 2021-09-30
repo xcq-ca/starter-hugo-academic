@@ -26,5 +26,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+links:
+  - name: "Full Text"
+    url: "https://www.cimt.org.uk/ijmtl/index.php/IJMTL/article/view/31"
 date: 2021-09-30T18:25:15.364Z
 ---
