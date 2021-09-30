@@ -8,6 +8,7 @@ tags:
   - inactive
   - stat-ed
   - linguistics
+  - other
 image:
   filename: featured
   focal_point: Smart
