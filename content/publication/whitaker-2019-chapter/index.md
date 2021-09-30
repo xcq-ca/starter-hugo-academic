@@ -29,7 +29,6 @@ tags:
   - attitudes
 projects:
   - masder
-  - ""
 image:
   filename: featured
   focal_point: Smart
