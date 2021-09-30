@@ -14,4 +14,5 @@ image:
   caption: Photo by Markus Spiske on Unsplash
   alt_text: One game piece stands apart exclude from the rest. Photo by Markus
     Spiske on Unsplash
+weight: 50
 ---
