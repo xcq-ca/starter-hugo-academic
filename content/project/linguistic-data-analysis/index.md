@@ -13,4 +13,5 @@ image:
   preview_only: false
   caption: "Image by CSTRSK from Pixabay "
   alt_text: "Sound wave. Image by CSTRSK from Pixabay "
+weight: 90
 ---
