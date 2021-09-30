@@ -58,7 +58,7 @@ experience:
     company_url: https://www.ufl.edu/
     company_logo: logo-ufl
     location: Gainesville, Florida
-	date_start: 2010-08-23
+    date_start: 2010-08-23
     date_end: 2012-08-21
 design:
   columns: '2'
