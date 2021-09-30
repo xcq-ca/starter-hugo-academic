@@ -20,14 +20,14 @@ featured: false
 tags:
   - stat-ed
   - linguistics
+date: 2016-11-04T18:25:15.364Z
+links:
+  - name: Full Text
+    url: https://www.cimt.org.uk/ijmtl/index.php/IJMTL/article/view/31
 projects:
   - lexical-ambiguities
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links:
-  - name: "Full Text"
-    url: "https://www.cimt.org.uk/ijmtl/index.php/IJMTL/article/view/31"
-date: 2021-09-30T18:25:15.364Z
 ---
