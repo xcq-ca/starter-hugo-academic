@@ -27,5 +27,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+url_link: "https://www.statisticsteacher.org/2021/03/29/nonlinear-modeling-something-fishy/"
 date: 2021-03-29T17:57:06.489Z
 ---
