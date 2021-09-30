@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
 publication: "*Proceedings of the 47th Annual Meeting of the Research Council on
-  Mathematics Learning*, 43 50. "
+  Mathematics Learning*, 43-50 "
 abstract: Eccles and colleagues’ Expectancy-value theory (EVT; 1983) has been
   widely-used in education research, and the cost component of this framework
   has recently been the subject of increased research. While advances in
