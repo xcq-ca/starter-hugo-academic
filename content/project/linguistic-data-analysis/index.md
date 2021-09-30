@@ -1,6 +1,6 @@
 ---
 title: Linguistic data analysis
-date: 2021-09-01T23:22:26.414Z
+date: 2010-05-01T23:22:26.414Z
 draft: false
 featured: false
 tags:
