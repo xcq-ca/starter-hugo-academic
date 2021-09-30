@@ -57,12 +57,3 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
-related:
-  threshold: 0
-  includeNewer: true
-  toLower: true
-  indices:
-    - name: tags
-      weight: 100
-    - name: categories
-      weight: 70
