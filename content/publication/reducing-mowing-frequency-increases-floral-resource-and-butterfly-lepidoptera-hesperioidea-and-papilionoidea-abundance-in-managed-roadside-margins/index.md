@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Dale A. Halbritter
   - Jaret C. Daniels
-  - Douglas C. Whitaker
+  - admin
   - Lei Huang
 doi: 10.1653/024.098.0412
 publication: "*Florida Entomologist, 98*(4), 1081-1092"
