@@ -13,7 +13,7 @@ image:
   preview_only: false
   caption: Photo by Gary Yost on Unsplash
   alt_text: Zebra butterfly. Photo by Gary Yost on Unsplash
-weight: 99
+weight: 85
 summary: To what extent can roadside areas provide habitat for butterflies, and
   what effect do different mowing intervals have on these areas?
 ---

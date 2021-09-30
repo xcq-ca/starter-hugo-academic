@@ -5,7 +5,7 @@ summary: As part of my graduate work, I worked on a project to predict citrus
   greening disease (huanglongbing) based on the starch content in leaves.
 draft: false
 featured: false
-weight: 99
+weight: 80
 tags:
   - applied statistics
   - inactive
