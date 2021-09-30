@@ -18,29 +18,19 @@ content:
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Instrument Development
-    tag: instrument development
-  - name: Attitudes
-    tag: attitudes
-  - name: Teaching
-    tag: teaching
-  - name: Other
-    tag: other
+  filters:
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
-
-  # Toggle between the various page layout types.
+  # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   5 = Showcase
+  #   4 = Citation (publication only)
   view: 3
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
 ---
