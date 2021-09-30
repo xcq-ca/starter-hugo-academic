@@ -9,6 +9,7 @@ tags:
   - other
   - applied statistics
   - inactive
+  - agriculture
 image:
   filename: featured.jpg
   focal_point: Smart
