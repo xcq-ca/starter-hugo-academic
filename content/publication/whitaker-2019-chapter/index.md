@@ -9,8 +9,8 @@ authors:
   - Marjorie Bond
 doi: 10.4324/9780429486159-6
 publication: "*Assessment in mathematics education contexts: Theoretical
-  frameworks and new directions* (1st ed., pp. 120–146). New York, NY:
-  Routledge."
+  frameworks and new directions* (1st ed., pp. 120-146). New York, NY:
+  Routledge"
 abstract: This chapter describes the development plan for a new survey designed
   to measure students’ attitudes toward statistics aligned with expectancy value
   theory, the S-SOMAS. Included in this description are the context and
