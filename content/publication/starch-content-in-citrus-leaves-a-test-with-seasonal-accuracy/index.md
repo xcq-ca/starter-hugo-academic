@@ -45,5 +45,8 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+links:
+  - name: "Full Text"
+    url: "https://journals.flvc.org/fshs/article/view/83686/80498"
 date: 2013-12-01T18:07:40.456Z
 ---
