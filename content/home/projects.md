@@ -29,8 +29,12 @@ content:
     tag: '*'
   - name: Instrument Development
     tag: instrument development
-  - name: Grid-Type Items
-    tag: ESG
+  - name: Attitudes
+    tag: attitudes
+  - name: Teaching
+    tag: teaching
+  - name: Other
+    tag: other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
