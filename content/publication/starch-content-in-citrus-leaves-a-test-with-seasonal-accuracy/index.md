@@ -1,7 +1,7 @@
 ---
 title: "Starch content in citrus leaves: A test with seasonal accuracy"
 publication_types:
-  - "0"
+  - "1"
 authors:
   - admin
   - Mihai C. Giurcanu
@@ -38,6 +38,10 @@ featured: false
 tags:
   - agriculture
   - applied statistics
+date: 2013-12-01T18:07:40.456Z
+links:
+  - name: Full Text
+    url: https://journals.flvc.org/fshs/article/view/83686/80498
 categories: []
 projects:
   - huanglongbing
@@ -45,8 +49,4 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-links:
-  - name: "Full Text"
-    url: "https://journals.flvc.org/fshs/article/view/83686/80498"
-date: 2013-12-01T18:07:40.456Z
 ---
