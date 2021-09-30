@@ -8,7 +8,7 @@ authors:
   - Steven Foti
   - Tim Jacobbe
 doi: 10.5038/1936-4660.8.2.3
-publication: Numeracy
+publication: "*Numeracy, 8*(2), Article 3. "
 abstract: "The Levels of Conceptual Understanding in Statistics (LOCUS) project
   (NSF DRL-111868) has created assessments that measure conceptual (rather than
   procedural) understanding of statistics as outlined in GAISE Framework
