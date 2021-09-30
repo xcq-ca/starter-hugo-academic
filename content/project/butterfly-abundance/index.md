@@ -9,7 +9,9 @@ tags:
   - applied statistics
   - agriculture
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Photo by Gary Yost on Unsplash
+  alt_text: Zebra butterfly. Photo by Gary Yost on Unsplash
 ---
