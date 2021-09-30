@@ -9,10 +9,10 @@ tags:
   - applied statistics
   - agriculture
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: ""
-  alt_text: ""
+  caption: Photo by Gary Yost on Unsplash
+  alt_text: Zebra Butterfly. Photo by Gary Yost on Unsplash
 weight: 99
 ---
