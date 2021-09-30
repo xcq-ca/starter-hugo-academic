@@ -31,4 +31,4 @@ I am a member of the Motivational Attitudes in Statistics and Data Science Educa
 
 This material is based upon work supported by the National Science Foundation under [Grant No. DUE-2013392](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013392&HistoricalAwards=false).
 
-<img src="http://sdsattitudes.com/wp/wp-content/uploads/2021/06/NSF_4-Color_bitmap_Logo-150x150.png" lightbox="false" alt="National Science Foundation logo">
+<img src="nsf-logo.png" lightbox="false" alt="National Science Foundation logo">
