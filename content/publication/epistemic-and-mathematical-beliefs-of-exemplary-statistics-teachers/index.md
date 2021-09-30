@@ -34,4 +34,8 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-12-11T22:31:27.550Z
+links:
+  - name: "Full Text"
+  - url: https://www.cimt.org.uk/ijmtl/index.php/IJMTL/article/view/253
+
 ---
