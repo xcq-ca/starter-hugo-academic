@@ -11,10 +11,10 @@ tags:
   - inactive
   - agriculture
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
-  alt_text: Oranges on a tree. Photo by Philippe Gauthier on Unsplash
-  caption: Photo by Philippe Gauthier on Unsplash
+  alt_text: ""
+  caption: ""
 ---
 As part of my graduate work, I worked on a project to predict citrus greening disease (huanglongbing) based on the starch content in leaves.
