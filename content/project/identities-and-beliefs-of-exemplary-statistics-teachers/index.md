@@ -8,7 +8,9 @@ tags:
   - other
   - inactive
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Photo by NeONBRAND on Unsplash
+  alt_text: Teacher in classroom with students. Photo by NeONBRAND on Unsplash
 ---
