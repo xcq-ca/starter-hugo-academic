@@ -16,5 +16,6 @@ image:
   preview_only: false
   alt_text: ""
   caption: ""
+weight: 99
 ---
 As part of my graduate work, I worked on a project to predict citrus greening disease (huanglongbing) based on the starch content in leaves.
