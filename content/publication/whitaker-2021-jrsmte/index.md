@@ -37,7 +37,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 publication: "*Journal of Research in Science Mathematics and Technology
-  Education, 5*(1), 1–36"
+  Education, 5*(1), 1-36"
 featured: true
 date: 2021-09-20T00:00:00.000Z
 url_slides: ""
