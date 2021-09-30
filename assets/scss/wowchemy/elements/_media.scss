@@ -27,17 +27,14 @@ video {
 
 /* Hide overflowing of zoomed child img element */
 .img-hover-zoom {
-  overflow: hidden;
 }
 
 /* Smooth transition for image zoom on hover */
 .img-hover-zoom img {
-  transition: transform 0.0s;
 }
 
 /* Transform the image scale when container gets hovered */
 .img-hover-zoom:hover img {
-  transform: scale(1.0);
 }
 
 /*************************************************
