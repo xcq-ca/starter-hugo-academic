@@ -1,5 +1,5 @@
 ---
-title: Predicting citrus greening disease (huanglongbing)
+title: Predicting citrus greening disease
 date: 2021-09-30T14:59:02.652Z
 summary: As part of my graduate work, I worked on a project to predict citrus
   greening disease (huanglongbing) based on the starch content in leaves.
