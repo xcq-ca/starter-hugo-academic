@@ -52,7 +52,7 @@ experience:
     location: Gainesville, Florida
     date_start: 2012-08-22
     date_end: 2016-08-09
-	
+
   - title: Graduate Assistant
     company: University of Florida
     company_url: https://www.ufl.edu/
