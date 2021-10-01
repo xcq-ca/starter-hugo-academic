@@ -15,7 +15,8 @@ authors:
   - admin
 tags:
   - teaching
-categories:
+categories: []
+projects:
   - teaching-investigations
 image:
   filename: featured.png
