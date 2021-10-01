@@ -8,6 +8,12 @@ authors:
 publication: R package version 0.1
 draft: false
 featured: false
+tags:
+  - applied statistics
+  - R
+  - measurement
+projects:
+  - r-packages
 image:
   filename: featured
   focal_point: Smart
