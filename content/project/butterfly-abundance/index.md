@@ -1,8 +1,11 @@
 ---
 title: Butterfly abundance
 date: 2021-09-30T15:11:55.933Z
+summary: To what extent can roadside areas provide habitat for butterflies, and
+  what effect do different mowing intervals have on these areas?
 draft: false
 featured: false
+weight: 85
 tags:
   - inactive
   - applied statistics
@@ -13,7 +16,5 @@ image:
   preview_only: false
   caption: Photo by Gary Yost on Unsplash
   alt_text: Zebra butterfly. Photo by Gary Yost on Unsplash
-weight: 85
-summary: To what extent can roadside areas provide habitat for butterflies, and
-  what effect do different mowing intervals have on these areas?
 ---
+To what extent can roadside areas provide habitat for butterflies, and what effect do different mowing intervals have on these areas?
