@@ -20,12 +20,12 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-06-24T17:33:16.940Z
 links:
   - name: "GitHub v0.1.6"
     url: https://github.com/douglaswhitaker/MVQuickGraphs 
   - name: "CRAN v0.1.2"
     url: https://cran.r-project.org/package=MVQuickGraphs 
+date: 2021-06-24T17:33:16.940Z
 ---
 **Version History**
 

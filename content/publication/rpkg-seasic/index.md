@@ -18,8 +18,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2014-11-19T18:36:56.769Z
 links:
   - name: "CRAN v0.1"
     url: http://cran.r-project.org/package=SEAsic
+date: 2014-11-19T18:36:56.769Z
 ---

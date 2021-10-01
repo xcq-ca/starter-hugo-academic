@@ -18,11 +18,12 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2014-01-15T18:38:14.807Z
+links:
   - name: "GitHub v1.1"
     url: https://github.com/douglaswhitaker/clustsig
   - name: "CRAN v1.1"
     url: https://cran.r-project.org/package=clustsig
+date: 2014-01-15T18:38:14.807Z
 ---
 **Version History**
 

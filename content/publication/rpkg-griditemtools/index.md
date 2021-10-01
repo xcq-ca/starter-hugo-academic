@@ -20,7 +20,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-17T17:31:28.632Z
+links:
   - name: "GitHub v0.0.12"
     url: https://github.com/douglaswhitaker/GridItemTools 
+date: 2021-09-17T17:31:28.632Z
 ---
