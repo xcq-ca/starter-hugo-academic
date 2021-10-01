@@ -1,7 +1,7 @@
 ---
 title: "SEAsic: Score equity assessment- summary index computation"
 publication_types:
-  - "0"
+  - "9"
 authors:
   - Anne Corinne Huggins-Manley
   - admin
