@@ -9,6 +9,11 @@ author_notes: []
 publication: R package version 0.1.6
 draft: false
 featured: false
+tags:
+  - applied statistics
+  - multivariate
+  - R
+  - teaching
 projects:
   - r-packages
 image:
