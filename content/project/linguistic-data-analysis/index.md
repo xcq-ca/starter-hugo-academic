@@ -3,7 +3,7 @@ title: Linguistic data analysis
 date: 2010-05-01T23:22:26.414Z
 summary: I have occasionally supported colleagues with analysis of data
   collected in linguistics studies.
-draft: false
+draft: true
 featured: false
 weight: 99
 tags:
