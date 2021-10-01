@@ -1,7 +1,7 @@
 ---
 title: "GridItemTools: Grid item tools"
 publication_types:
-  - "3"
+  - "9"
 authors:
   - admin
   - Bailey Drew
@@ -21,4 +21,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-09-17T17:31:28.632Z
+  - name: "GitHub v0.0.12"
+    url: https://github.com/douglaswhitaker/GridItemTools 
 ---

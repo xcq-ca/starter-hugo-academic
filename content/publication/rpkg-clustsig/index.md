@@ -1,7 +1,7 @@
 ---
 title: "clustsig: Similarity profile analysis"
 publication_types:
-  - "0"
+  - "9"
 authors:
   - admin
   - Mary Christman
@@ -19,6 +19,10 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2014-01-15T18:38:14.807Z
+  - name: "GitHub v1.1"
+    url: https://github.com/douglaswhitaker/clustsig
+  - name: "CRAN v1.1"
+    url: https://cran.r-project.org/package=clustsig
 ---
 **Version History**
 
