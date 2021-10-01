@@ -29,21 +29,20 @@ authors:
   - admin
   - Joseph Barss
   - Bailey Drew
+author_notes: []
+publication: "*Journal of Research in Science Mathematics and Technology
+  Education, 5*(1), 1-36"
 summary: ""
 url_dataset: ""
 url_project: ""
-author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "*Journal of Research in Science Mathematics and Technology
-  Education, 5*(1), 1-36"
-featured: true
-date: 2021-09-20T00:00:00.000Z
-url_slides: ""
 title: "Measuring opportunity cost in statistics using evaluative space grid
   items: results from a pilot study"
 subtitle: ""
+doi: "10.31756/jrsmte.511 "
+featured: true
 tags:
   - ESG
   - survey
@@ -58,8 +57,9 @@ image:
   filename: featured.png
   alt_text: "Heatmaps showing the number of responses in each cell to the two
     ESG-type items designed for this study. "
+date: 2022-01-02T01:00:00.000Z
+url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: "10.31756/jrsmte.511 "
 ---
