@@ -43,4 +43,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2015-05-18T13:19:46.100Z
+links:
+  - name: "Full Text"
+    url: https://nsuworks.nova.edu/tqr/vol20/iss4/10/
 ---
