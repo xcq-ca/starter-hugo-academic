@@ -1,7 +1,7 @@
 ---
 title: Epistemic and mathematical beliefs of exemplary statistics teachers
 publication_types:
-  - "2"
+  - "9"
 authors:
   - admin
 publication: "*International Journal for Mathematics Teaching and Learning, 21*(2), 119–142"
