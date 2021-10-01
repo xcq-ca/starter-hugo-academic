@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-What are graduate assistants' experiences with their university provided healthcare?
+What are graduate assistants' experiences with their university provided health insurance?
