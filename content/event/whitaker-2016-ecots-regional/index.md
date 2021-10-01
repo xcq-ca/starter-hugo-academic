@@ -18,6 +18,7 @@ authors:
   - admin
 tags:
   - teaching
+  - stat-ed
 categories: []
 projects:
   - teaching-investigations

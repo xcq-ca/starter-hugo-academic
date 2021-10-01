@@ -8,6 +8,9 @@ tags:
   - teaching
   - blog
   - stat-ed
+links:
+  - url: https://stattlc.com/
+    name: Project Site
 image:
   filename: featured.png
   focal_point: Smart

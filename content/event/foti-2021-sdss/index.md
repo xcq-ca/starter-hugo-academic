@@ -32,6 +32,7 @@ authors:
 tags:
   - teaching
   - covid
+  - stat-ed
 projects:
   - teaching-investigations
   - stattlc
