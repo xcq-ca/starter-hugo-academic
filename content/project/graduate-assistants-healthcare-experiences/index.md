@@ -9,8 +9,11 @@ tags:
   - other
   - inactive
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Image by mohamed hassan on pxhere
+  alt_text: Cartoon image of heart, ID card, and human with clipboard. Image by
+    mohamed hassan on pxhere.
 ---
 What are graduate assistants' experiences with their university provided health insurance?
