@@ -2,7 +2,7 @@
 title: Graduate assistants' healthcare experiences
 date: 2021-10-01T12:55:44.691Z
 summary: What are graduate assistants' experiences with their university
-  provided healthcare?
+  provided health insurance?
 draft: false
 featured: false
 tags:
