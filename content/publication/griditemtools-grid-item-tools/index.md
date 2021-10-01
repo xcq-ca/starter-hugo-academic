@@ -1,12 +1,12 @@
 ---
-title: "*GridItemTools: Grid item tools*"
+title: "GridItemTools: Grid item tools"
 publication_types:
   - "3"
 authors:
   - admin
   - Bailey Drew
   - Joseph Barss
-publication: R package version 0.0.12.
+publication: R package version 0.0.12
 draft: false
 featured: false
 tags:
