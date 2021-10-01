@@ -33,5 +33,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+links:
+  - name: "PDF"
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5978612/pdf/10.1177_0146621615572832.pdf
 date: 2015-02-24T19:08:44.950Z
 ---
