@@ -77,4 +77,4 @@ Douglas Whitaker is an Assistant Professor of Statistics at Mount Saint Vincent 
 
 Dr. Whitaker’s research areas are: improving the teaching and learning of statistics and developing high-quality tests and instruments. He is currently Co-PI on the NSF-funded *Developing Validated Instruments to Measure Student/Faculty Attitudes in Undergraduate Statistics and Data Science Education* project ([DUE-2013392](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013392&HistoricalAwards=false)). Previously, he was a graduate student on the NSF-funded *Levels of Conceptual Understanding in Statistics (LOCUS)* project (PI: Tim Jacobbe). In 2017, Dr. Whitaker was named as an AMTE STaR Fellow. 
 
-{{< icon name="download" pack="fas" >}} {{% staticref "uploads/cv.pdf" %}}Download my CV.{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} {{% staticref "uploads/whitaker-cv.pdf" %}}Download my CV.{{% /staticref %}}
