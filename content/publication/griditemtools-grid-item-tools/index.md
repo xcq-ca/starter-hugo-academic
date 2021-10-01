@@ -12,6 +12,7 @@ featured: false
 tags:
   - R
   - ESG
+  - dataset
 projects:
   - grid-items
   - r-packages
