@@ -14,6 +14,9 @@ location: Jacksonville, FL (SSMA 2014)
 date: 2014-11-06T14:20:34.994Z
 date_end: 2014-11-06T14:45:00.000Z
 all_day: true
+links:
+  - name: Slides
+    url: case-2014-ssma-slides.pdf
 event: School Science and Mathematics Association 2014 Annual Convention
 event_url: https://www.ssma.org/past-coventions
 publishDate: 2014-11-06T14:49:35.007Z

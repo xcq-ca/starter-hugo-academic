@@ -18,6 +18,9 @@ location: Virtual (SSC 2021)
 date: 2021-06-09T19:00:24.523Z
 date_end: 2021-06-09T19:15:00.000Z
 all_day: true
+links:
+  - name: "Slides"
+    url: whitaker-2021-ssc-slides.pdf
 event: "Statistics Society of Canada 2021 Annual Meeting "
 event_url: https://ssc.ca/en/meeting/annual/presentation/developing-and-revising-student-survey-motivational-attitudes-toward
 publishDate: 2021-06-09T19:00:00.000Z

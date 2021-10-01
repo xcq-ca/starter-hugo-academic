@@ -14,6 +14,9 @@ location: Gainesville, FL (SAGE Research Symposium 2014)
 date: 2014-04-15T15:00:54.829Z
 date_end: 2014-04-15T16:30:00.000Z
 all_day: false
+links:
+  - name: Slides
+    url: dogan-2014-sage-poster.pdf
 event: 10th Annual SAGE Research Symposium
 event_url: https://education.ufl.edu/sage/
 publishDate: 2014-04-15T15:00:00.000Z

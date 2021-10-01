@@ -6,6 +6,9 @@ location: Gainesville, Florida (eCOTS 2016 North Florida Regional Mini Conferenc
 date: 2016-05-20T03:00:39.276Z
 date_end: 2016-05-20T03:00:00.000Z
 all_day: true
+links:
+  - name: "Slides"
+    url: whitaker-2014-ecots-nfr-slides.pdf
 event: eCOTS 2016 North Florida Regional Mini Conference
 event_url: https://www.causeweb.org/cause/ecots/ecots16/regional-conferences
 publishDate: 2016-05-20T03:00:00.000Z
