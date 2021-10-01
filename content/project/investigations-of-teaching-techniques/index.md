@@ -8,8 +8,10 @@ featured: false
 tags:
   - teaching
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Photo by Changbok Ko on Unsplash
+  alt_text: Empty classroom. Photo by Changbok Ko on Unsplash
 ---
 As a reflective practitioner, I am committed to studying best practices for teaching.
