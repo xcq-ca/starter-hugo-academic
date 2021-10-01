@@ -8,6 +8,12 @@ authors:
 publication: R package version 1.1
 draft: false
 featured: false
+tags:
+  - R
+  - multivariate
+  - applied statistics
+projects:
+  - r-packages
 image:
   filename: featured
   focal_point: Smart
