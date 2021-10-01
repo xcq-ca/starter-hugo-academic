@@ -1,8 +1,11 @@
 ---
 title: Linguistic data analysis
 date: 2010-05-01T23:22:26.414Z
+summary: I have occasionally supported colleagues with analysis of data
+  collected in linguistics studies.
 draft: false
 featured: false
+weight: 99
 tags:
   - applied statistics
   - inactive
@@ -13,5 +16,5 @@ image:
   preview_only: false
   caption: "Image by CSTRSK from Pixabay "
   alt_text: "Sound wave. Image by CSTRSK from Pixabay "
-weight: 99
 ---
+I have occasionally supported colleagues with analysis of data collected in linguistics studies.
