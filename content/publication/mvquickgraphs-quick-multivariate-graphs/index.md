@@ -1,5 +1,5 @@
 ---
-title: "*MVQuickGraphs: Quick multivariate graphs*"
+title: "MVQuickGraphs: Quick multivariate graphs"
 publication_types:
   - "0"
 authors:
