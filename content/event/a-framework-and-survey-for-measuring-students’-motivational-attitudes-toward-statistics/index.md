@@ -19,11 +19,16 @@ event_url: http://icots.info/10/?contributed=C200
 publishDate: 2018-07-11T12:30:00.000Z
 draft: false
 featured: false
+authors:
+  - admin
+  - Alana Unfried
+  - Leyla Batakci
 tags:
   - stat-ed
   - attitudes
   - EVT
   - instrument development
+  - S-SOMAS
 projects:
   - masder
 image:
