@@ -14,7 +14,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: Photo by Gary Yost on Unsplash
-  alt_text: Zebra butterfly. Photo by Gary Yost on Unsplash
+  caption: ""
+  alt_text: Butterfly
 ---
 To what extent can roadside areas provide habitat for butterflies, and what effect do different mowing intervals have on these areas?
