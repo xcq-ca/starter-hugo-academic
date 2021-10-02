@@ -41,7 +41,7 @@ url_video: ""
 title: "Measuring opportunity cost in statistics using evaluative space grid
   items: results from a pilot study"
 subtitle: ""
-doi: "10.31756/jrsmte.511 "
+doi: "10.31756/jrsmte.511"
 featured: true
 tags:
   - ESG
@@ -62,4 +62,7 @@ url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
+links:
+  - name: "Full Text"
+    url: https://jrsmte.com/index.php/jrmste/article/view/20
 ---
