@@ -38,7 +38,7 @@ tags:
 projects:
   - huanglongbing
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
