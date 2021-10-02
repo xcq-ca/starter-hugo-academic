@@ -16,7 +16,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  alt_text: ""
-  caption: ""
+  alt_text: Oranges. Photo by mac231 on Pixabay
+  caption: Photo by mac231 on Pixabay
 ---
 As part of my graduate work, I worked on a project to predict citrus greening disease (huanglongbing) based on the starch content in leaves.Citrus greening disease (huanglongbing) affects many parts of citrus trees and has devastating consequences for industry. To what extent can starch content in citrus leaves be used to predict if a tree is infected with huanglongbing?
