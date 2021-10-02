@@ -24,11 +24,11 @@ publishDate: 2021-06-03T13:00:00.000Z
 draft: false
 featured: false
 authors:
+  - Laura Le
   - Steven Foti
   - Adam Loy
   - admin
   - Laura Ziegler
-  - Laura Le
 tags:
   - teaching
   - covid
