@@ -26,4 +26,4 @@ date: 2021-07-30T17:35:15.338Z
 ---
 **Version History**
 
-2021: version 0.1.6 released]
+2021: version 0.1.6 released
