@@ -19,4 +19,11 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2016-05-01T17:36:50.669Z
+links:
+  - name: "Preprint"
+    url: case-2016-mt-preprint.pdf
+  - name: "Corrigenda"
+    url: case-2016-mt-corrigenda.pdf
+  - name: "Supplements"
+    url: case-2016-mt-supplements.zip
 ---
