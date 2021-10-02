@@ -15,9 +15,9 @@ date_end: 2021-06-03T14:35:00.000Z
 all_day: false
 links:
   - name: "Slides"
-    url: foti-2021-sdss-slides.pdf
+    url: le-2021-sdss-slides.pdf
   - name: "Handouts"
-    url: foti-2021-sdss-handouts.zip
+    url: le-2021-sdss-handouts.zip
 event: Symposium on Data Science & Statistics 2021
 event_url: https://ww2.amstat.org/meetings/sdss/2021/onlineprogram/AbstractDetails.cfm?AbstractID=309745
 publishDate: 2021-06-03T13:00:00.000Z
