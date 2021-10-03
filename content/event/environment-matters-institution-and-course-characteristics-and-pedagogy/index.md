@@ -25,9 +25,10 @@ publishDate: 2019-05-18T14:00:00.000Z
 draft: false
 featured: false
 authors:
-  - admin
-  - Alana Unfried
   - Marjorie Bond
+  - Leyla Batakci
+  - Wendine Bolon
+  - admin
 tags:
   - E-SOMAS
   - instructors
