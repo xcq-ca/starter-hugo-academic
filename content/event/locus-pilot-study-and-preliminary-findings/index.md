@@ -8,7 +8,7 @@ abstract: "The initial pilot forms of the LOCUS assessments were administered to
   characteristics of the current forms of the LOCUS assessments. Implications
   for the future development of the LOCUS instruments and future administrations
   will be discussed. "
-location: Montréal, Québec
+location: Montréal, Québec (JSM 2013)
 date: 2013-08-07T17:00:00.259Z
 date_end: 2013-08-07T18:50:00.000Z
 all_day: true
