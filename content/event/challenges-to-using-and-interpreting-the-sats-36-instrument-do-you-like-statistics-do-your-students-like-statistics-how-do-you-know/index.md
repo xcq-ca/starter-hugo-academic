@@ -39,6 +39,8 @@ tags:
   - students
   - validity
   - stat-ed
+projects:
+  - sats
 image:
   filename: featured.jpg
   focal_point: Smart
