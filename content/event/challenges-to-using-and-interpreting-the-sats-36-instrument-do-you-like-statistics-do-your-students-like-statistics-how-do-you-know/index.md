@@ -38,6 +38,7 @@ tags:
   - SATS
   - students
   - validity
+  - stat-ed
 image:
   filename: featured.jpg
   focal_point: Smart
