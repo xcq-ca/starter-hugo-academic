@@ -29,7 +29,7 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - LOCUS
+  - locus
   - knowledge
   - validity
   - stat-ed
