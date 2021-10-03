@@ -13,7 +13,7 @@ abstract: The Survey of Motivational Attitudes toward Statistics (SOMAS) for
 location: Kyoto, Japan (ICOTS 10)
 date: 2018-07-11T12:30:40.977Z
 date_end: 2018-07-11T13:30:00.000Z
-all_day: false
+all_day: true
 event: 10th International Conference on Teaching Statistics
 event_url: http://icots.info/10/?contributed=C200
 publishDate: 2018-07-11T12:30:00.000Z
