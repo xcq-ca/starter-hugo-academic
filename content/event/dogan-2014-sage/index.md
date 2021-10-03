@@ -13,7 +13,7 @@ abstract: Lecture is a common instructional strategy used by college level
 location: Gainesville, FL (SAGE Research Symposium 2014)
 date: 2014-04-15T15:00:54.829Z
 date_end: 2014-04-15T16:30:00.000Z
-all_day: false
+all_day: true
 links:
   - name: Slides
     url: dogan-2014-sage-poster.pdf
