@@ -23,7 +23,7 @@ abstract: The Survey of Attitudes Toward Statistics (SATS-36; Schau, 2003) is
 location: State College, Pennsylvania (USCOTS 2019)
 date: 2019-05-18T14:00:10.146Z
 date_end: 2019-05-18T15:00:00.000Z
-all_day: false
+all_day: true
 event: United States Conference on Teaching Statistics 2019
 event_url: https://www.causeweb.org/cause/uscots/uscots19/posters/2-21
 publishDate: 2019-05-18T14:00:00.000Z
