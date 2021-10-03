@@ -29,6 +29,8 @@ tags:
   - stat-ed
   - EVT
   - SATS
+projects:
+  - sats
 image:
   filename: featured.jpg
   focal_point: Smart
