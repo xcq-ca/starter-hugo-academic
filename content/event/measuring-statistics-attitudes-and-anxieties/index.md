@@ -15,7 +15,7 @@ abstract: Both attitudes and anxiety have long been studied in the statistics
 location: Virtual (eCOTS 2020)
 date: 2020-05-19T13:00:00.000Z
 date_end: 2020-05-19T21:00:00.000Z
-all_day: false
+all_day: true
 event: The Fifth Biennial Electronic Conference on Teaching Statistics
 event_url: "https://www.causeweb.org/cause/ecots/ecots20/posters/2-05 "
 publishDate: 2020-05-19T13:00:03.685Z
@@ -34,3 +34,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+{{<youtube JAH1uiv7xeo>}}
