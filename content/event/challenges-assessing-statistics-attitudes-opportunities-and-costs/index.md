@@ -20,7 +20,7 @@ tags:
   - attitudes
   - ESG
 projects:
-  - ESG
+  - grid-items
 image:
   filename: featured.png
   focal_point: Smart
