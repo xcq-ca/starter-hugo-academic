@@ -10,21 +10,21 @@ abstract: Statistics has a visible and increasing presence in the K-12
   statistics teacher to be effective. This poster examines the identity of an
   in-service secondary level mathematics teacher engaged in collaborative
   teaching of an Advanced Placement (AP) Statistics course.
-location: Halifax, Nova Scotia (SSC 2015)
-date: 2015-06-16T16:30:00.000Z
-date_end: 2015-06-16T18:30:00.000Z
+location: Halifax, Nova Scotia (SSC Student Conference 2015)
+date: 2015-06-13T18:20:00.000Z
+date_end: 2015-06-13T19:20:00.000Z
 all_day: true
-event: 43rd Annual Meeting of the Statistical Society of Canada
-event_url: https://ssc.ca/en/meeting/2015-annual-meeting-halifax-nova-scotia
-publishDate: 2015-06-16T16:30:00.000Z
+event: 3rd Annual SSC Student Conference
+event_url: https://ssc.ca/en/2015-student-conference
+publishDate: 2015-06-13T18:20:00.000Z
 draft: false
 featured: false
 authors:
   - admin
 tags:
   - identity
-  - in-service teachers
   - stat-ed
+  - in-service teachers
 projects:
   - exemplary-teachers
 image:
