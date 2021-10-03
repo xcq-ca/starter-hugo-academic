@@ -12,11 +12,11 @@ abstract: The global pandemic has led to a drastic shift in the way we teach,
 location: Virtual (SDSS 2021)
 date: 2021-06-03T13:00:29.665Z
 date_end: 2021-06-03T14:35:00.000Z
-all_day: false
+all_day: true
 links:
-  - name: "Slides"
+  - name: Slides
     url: le-2021-sdss-slides.pdf
-  - name: "Handouts"
+  - name: Handouts
     url: le-2021-sdss-handouts.zip
 event: Symposium on Data Science & Statistics 2021
 event_url: https://ww2.amstat.org/meetings/sdss/2021/onlineprogram/AbstractDetails.cfm?AbstractID=309745
