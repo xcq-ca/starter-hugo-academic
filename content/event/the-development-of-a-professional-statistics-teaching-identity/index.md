@@ -12,13 +12,13 @@ abstract: Motivated by the increased statistics expectations for students and
   This work has implications for teacher preparation and professional
   development.
 location: Tucson, Arizona (PME-NA 38)
-date: 2021-10-03T13:30:22.863Z
-date_end: 2021-10-03T14:10:00.000Z
+date: 2016-11-05T13:30:22.863Z
+date_end: 2016-11-05T14:10:00.000Z
 all_day: true
 event: 38th Annual Meeting of the North American Chapter of the International
   Group for the Psychology of Mathematics Education
 event_url: https://convention2.allacademic.com/one/pmena/pmena16/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1135055&PHPSESSID=fh8lon34hldpaej1d9478b2qsd
-publishDate: 2021-10-03T13:30:00.000Z
+publishDate: 2016-11-05T13:30:00.000Z
 draft: false
 featured: false
 authors:
