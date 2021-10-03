@@ -1,9 +1,13 @@
 ---
-title: Douglas Whitaker
 role: Assistant Professor
 interests:
   - Statistics Education
   - Educational Measurement
+  - Instrument and Assessment Development
+  - Psychometrics
+  - Attitudes and Beliefs about Statistics
+  - Data Science Education
+  - R Programming
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,6 +40,7 @@ education:
       year: 2010
 superuser: true
 highlight_name: true
+title: Douglas Whitaker
 ---
 Douglas Whitaker is an Assistant Professor of Statistics at Mount Saint Vincent University in Halifax, Nova Scotia. Dr. Whitaker completed his PhD in Statistics Education at the University of Florida, and he was previously an Assistant Professor of Mathematics at the University of Wisconsin-Stout.
 
