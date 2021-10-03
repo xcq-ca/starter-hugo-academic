@@ -37,6 +37,7 @@ tags:
   - attitudes
   - SATS
   - students
+  - validity
 image:
   filename: featured.jpg
   focal_point: Smart
