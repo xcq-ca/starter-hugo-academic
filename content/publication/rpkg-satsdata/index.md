@@ -13,16 +13,17 @@ tags:
   - dataset
   - attitudes
   - R
+date: 2021-07-30T17:35:15.338Z
+links:
+  - name: GitHub v1.0.0
+    url: https://github.com/douglaswhitaker/SATSdata
 projects:
   - r-packages
+  - sats
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-links:
-  - name: "GitHub v1.0.0"
-    url: https://github.com/douglaswhitaker/SATSdata 
-date: 2021-07-30T17:35:15.338Z
 ---
 **Version History**
 
