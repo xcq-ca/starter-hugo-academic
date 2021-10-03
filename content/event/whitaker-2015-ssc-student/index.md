@@ -1,5 +1,5 @@
 ---
-title: "Transition and Collaboration: The Identity of an AP Statistics Teacher"
+title: "Transition and Collaboration: The Identity of an AP Statistics Teacher [SSC Student Conference]"
 abstract: Statistics has a visible and increasing presence in the K-12
   curriculum. Despite widespread recognition of statistics as a field
   independent of mathematics at the tertiary level and beyond, at the K-12 level
