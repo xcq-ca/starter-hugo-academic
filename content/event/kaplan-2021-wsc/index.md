@@ -18,7 +18,7 @@ abstract: The Statistics Education Research Journal (SERJ) is the flagship
 location: Virtual (WSC 2021)
 date: 2021-07-15T14:00:43.761Z
 date_end: 2021-07-15T15:30:00.000Z
-all_day: false
+all_day: true
 event: ISI World Statistics Congress 2021
 event_url: https://www.isi2021.org/events/isi-world-statistics-congress-2021/?date=2021-07-15&session-type=sips
 publishDate: 2021-07-15T14:00:00.000Z
