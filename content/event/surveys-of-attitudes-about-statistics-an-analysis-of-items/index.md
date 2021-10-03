@@ -26,6 +26,8 @@ tags:
   - attitudes
   - SATS
   - EVT
+projects:
+  - sats
 image:
   filename: featured.png
   focal_point: Smart
