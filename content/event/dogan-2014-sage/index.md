@@ -17,7 +17,7 @@ all_day: true
 links:
   - name: Slides
     url: dogan-2014-sage-poster.pdf
-event: 10th Annual SAGE Research Symposium
+event: 10th Annual Student Alliance of Graduates in Education Research Symposium
 event_url: https://education.ufl.edu/sage/
 publishDate: 2014-04-15T15:00:00.000Z
 draft: false
