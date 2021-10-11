@@ -20,7 +20,7 @@ abstract: Statistics and probability represent about one-fifth of the standards
   2002). Semi-structured interviews were conducted with participants. Data are
   being analyzed using inductive analysis (Hatch, 2002), and this presentation
   includes preliminary results.
-location: Orlando, Florida
+location: Orlando, Florida (RCML 2016)
 date: 2016-02-26T18:30:56.393Z
 date_end: 2016-02-26T19:20:00.000Z
 all_day: false
