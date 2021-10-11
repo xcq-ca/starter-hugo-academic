@@ -23,7 +23,7 @@ abstract: Statistics and probability represent about one-fifth of the standards
 location: Orlando, Florida (RCML 2016)
 date: 2016-02-26T18:30:56.393Z
 date_end: 2016-02-26T19:20:00.000Z
-all_day: false
+all_day: true
 event: "43rd Annual Meeting of the Research Council on Mathematics Learning "
 event_url: https://www.rcml-math.org/past-conferences
 publishDate: 2016-02-26T18:30:00.000Z
