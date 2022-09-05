@@ -27,7 +27,7 @@ tags:
 projects:
   - masder
 image:
-  filename: jsm2022
+  filename: featured
   focal_point: Smart
   preview_only: false
 ---
