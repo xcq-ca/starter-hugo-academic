@@ -42,7 +42,7 @@ title: "Measuring opportunity cost in statistics using evaluative space grid
   items: results from a pilot study"
 subtitle: ""
 doi: "10.31756/jrsmte.511"
-featured: true
+featured: false
 tags:
   - ESG
   - survey
