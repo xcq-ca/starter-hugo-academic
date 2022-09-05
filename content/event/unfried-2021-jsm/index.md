@@ -30,8 +30,11 @@ draft: false
 featured: false
 authors:
   - Alana Unfried
-  - Leyla Batakci
+  - Michael Posner
+  - April Kerby-Helm
+  - Marjorie Bond
   - admin
+  - Leyla Batakci
 tags:
   - S-SOMAS
   - stat-ed
