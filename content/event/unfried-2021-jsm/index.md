@@ -23,7 +23,7 @@ all_day: true
 links:
   - name: Slides
     url: unfried-2021-jsm-slides.pdf
-event: Joint Statistics Meetings 2021
+event: Joint Statistical Meetings 2021
 event_url: https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=318913
 publishDate: 2021-09-29T22:12:44.948Z
 draft: false
