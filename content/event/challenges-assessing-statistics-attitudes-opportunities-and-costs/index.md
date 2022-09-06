@@ -17,8 +17,11 @@ featured: false
 authors:
   - admin
 tags:
-  - attitudes
   - ESG
+  - survey
+  - statistics
+  - EVT
+  - attitudes
 projects:
   - grid-items
 image:
