@@ -17,7 +17,7 @@ abstract: >-
 
   Because most of the nonlinear models considered in this lesson have only a single predictor variable, students’ familiarity with simple linear regression can be extended to nonlinear modeling. If students are familiar with multiple linear regression, then two additional polynomial regression models can be included.
 draft: false
-featured: true
+featured: false
 tags:
   - stat-ed
   - teaching
