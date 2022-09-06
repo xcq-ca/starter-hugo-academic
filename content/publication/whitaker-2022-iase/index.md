@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Charlotte Bolch, 
+  - Charlotte Bolch
   - Leigh Harrell-Williams 
   - Stephanie Casey
   - Corinne Huggins-Manley 
@@ -14,6 +14,7 @@ publication: "In R. Helenius & E. Falck (Eds.), Statistics Education in the Era 
 abstract: "Interpreting results from instruments requires appropriate validity evidence. However, evolution in the fields of educational measurement and statistics education means that the validity evidence supporting instruments is often narrowly focused. For the Validity Evidence for Measurement in Mathematics Education project, we are systematically documenting validity evidence for instruments used to measure constructs in statistics education (such as knowledge and attitudes) for students and instructors. The researchers identified instruments measuring statistics-specific constructs, where and how these instruments were used, and validity evidence supporting their use. A structured literature review approach was used to identify instruments developed since 2000 and studies that used them or contained relevant validity evidence. Validity evidence for each instrument was documented using a standardized system. Preliminary information about the instruments identified, the frequency of their published use, and the amount of published work containing validity evidence will be presented."
 draft: false
 featured: false
+doi: "10.52041/iase.obaue"
 tags:
   - stat-ed
   - validity
