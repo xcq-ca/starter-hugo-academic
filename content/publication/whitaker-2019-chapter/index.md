@@ -30,6 +30,7 @@ tags:
   - attitudes
 projects:
   - masder
+  - vm2ed
 image:
   filename: featured
   focal_point: Smart
