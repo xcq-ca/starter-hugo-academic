@@ -10,7 +10,7 @@ links:
     url: whitaker-2022-ssc-slides.pdf
 event: "Statistics Society of Canada 2022 Annual Meeting "
 event_url: https://ssc.ca/en/meetings/annual/2022-annual-meeting
-date_end: 2022-05-30T17:45:00.000Z
+publishDate: 2022-05-30T17:45:00.000Z
 draft: false
 featured: false
 authors:
