@@ -9,7 +9,7 @@ links:
   - name: "Slides"
     url: whitaker-2022-icots-slides.pdf
 event: "11th International Conference on Teaching Statistics"
-event_url: https://ssc.ca/en/meetings/annual/2022-annual-meeting
+event_url: https://icots.info/11/
 publishDate: 2022-09-13T17:22:00.000Z
 draft: false
 featured: false
