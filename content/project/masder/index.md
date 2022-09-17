@@ -9,7 +9,7 @@ summary: The Motivational Attitudes in Statistics and Data Science Education
   the National Science Foundation
   ([DUE-2013392](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013392&HistoricalAwards=false)).
 draft: false
-featured: false
+featured: true
 tags:
   - stat-ed
   - attitudes
