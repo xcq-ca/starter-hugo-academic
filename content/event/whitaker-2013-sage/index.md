@@ -21,6 +21,8 @@ event_url: https://education.ufl.edu/sage/
 publishDate: 2013-04-18T15:00:10.954Z
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - locus
   - instrument development
