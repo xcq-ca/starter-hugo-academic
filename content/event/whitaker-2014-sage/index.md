@@ -1,5 +1,5 @@
 ---
-title: Worlds collide: The vocabulary of AP Statistics students
+title: "Worlds collide: The vocabulary of AP Statistics students"
 abstract: 
 location: Gainesville, Florida (SAGE Research Symposium 2014)
 date: 2014-04-23T15:00:00.000Z
