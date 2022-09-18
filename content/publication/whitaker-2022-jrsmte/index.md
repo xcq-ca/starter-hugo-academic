@@ -64,5 +64,5 @@ url_poster: ""
 url_code: ""
 links:
   - name: "Full Text"
-    url: https://jrsmte.com/index.php/jrmste/article/view/20
+    url: https://eric.ed.gov/?q=ED616714&id=ED616714
 ---
