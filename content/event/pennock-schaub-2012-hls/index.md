@@ -1,5 +1,5 @@
 ---
-title: The effects of attitude and explicit instruction on second language phonological skills: Voiceless occlusives and vowels
+title: "The effects of attitude and explicit instruction on second language phonological skills: Voiceless occlusives and vowels"
 abstract: 
 location: Gainesville, Florida (HLS 2012)
 date: 2012-10-27T16:30:00.000Z
