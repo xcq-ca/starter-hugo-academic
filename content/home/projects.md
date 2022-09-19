@@ -25,8 +25,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
+  - name: Current
+    tag: current
   - name: Instrument Development
     tag: instrument development
   - name: Attitudes
@@ -35,8 +35,8 @@ content:
     tag: teaching
   - name: Applied Statistics
     tag: applied statistics
-  - name: Other
-    tag: other
+  - name: All
+    tag: '*'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

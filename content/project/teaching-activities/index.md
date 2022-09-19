@@ -7,6 +7,7 @@ featured: false
 tags:
   - stat-ed
   - teaching
+  - current
 image:
   filename: featured
   focal_point: Smart

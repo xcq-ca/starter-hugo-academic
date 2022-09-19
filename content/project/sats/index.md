@@ -6,6 +6,7 @@ featured: false
 tags:
   - attitudes
   - stat-ed
+  - current
 image:
   filename: featured.png
   focal_point: Smart

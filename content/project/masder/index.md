@@ -17,6 +17,8 @@ tags:
   - S-SOMAS
   - instrument development
   - NSF
+  - validity
+  - current
 categories: []
 links:
   - url: http://sdsattitudes.com/

@@ -11,6 +11,7 @@ tags:
   - ESG
   - attitudes
   - stat-ed
+  - current
 image:
   filename: featured
   focal_point: Smart

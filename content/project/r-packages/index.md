@@ -7,6 +7,7 @@ featured: false
 tags:
   - R
   - applied statistics
+  - current
 image:
   filename: featured.png
   focal_point: Smart

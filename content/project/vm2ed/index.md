@@ -11,6 +11,8 @@ tags:
   - math-ed
   - validity
   - other
+  - current
+  - inactive
 links:
   - url: https://sites.ced.ncsu.edu/mathedmeasures/
     name: Project Site

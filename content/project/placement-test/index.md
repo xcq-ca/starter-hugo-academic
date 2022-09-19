@@ -9,6 +9,8 @@ tags:
   - instrument development
   - math-ed
   - stat-ed
+  - current
+  - validity
 image:
   filename: featured.png
   focal_point: Smart

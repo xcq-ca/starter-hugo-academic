@@ -8,6 +8,7 @@ tags:
   - teaching
   - blog
   - stat-ed
+  - current
 links:
   - url: https://stattlc.com/
     name: Project Site
