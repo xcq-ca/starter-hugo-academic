@@ -36,4 +36,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2015-07-08T01:46:28.468Z
+links:
+  - name: "Full Text"
+    url: https://digitalcommons.usf.edu/numeracy/vol8/iss2/art3/
 ---
