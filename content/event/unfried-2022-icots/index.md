@@ -25,6 +25,7 @@ tags:
   - stat-ed
   - ds-ed
   - attitudes
+  - instrument development
 projects:
   - masder
 image:
