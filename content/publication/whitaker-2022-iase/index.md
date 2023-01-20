@@ -24,5 +24,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+links:
+  - name: "Full Text"
+    url: https://iase-web.org/documents/papers/sat2021/IASE2021%20Satellite%20170_WHITAKER.pdf
 date: 2022-05-16T21:50:47.338Z
 ---
