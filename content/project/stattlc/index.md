@@ -1,14 +1,13 @@
 ---
 title: StatTLC
 date: 2018-06-01T15:09:27.606Z
-summary: I am a co-editor of the Statistics Teaching and Learning Corner (StatTLC) blog.
+summary: I was a co-editor of the Statistics Teaching and Learning Corner (StatTLC) blog.
 draft: false
 featured: false
 tags:
   - teaching
   - blog
   - stat-ed
-  - current
 links:
   - url: https://stattlc.com/
     name: Project Site
@@ -17,4 +16,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I am a co-editor of the Statistics Teaching and Learning Corner (StatTLC) blog.
+I was a co-editor of the Statistics Teaching and Learning Corner (StatTLC) blog.
