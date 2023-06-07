@@ -23,12 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: Mount Saint Vincent University
+    company: |\n
+      Department of Mathematics and Statistics\n
+      Mount Saint Vincent University\n
     company_url: https://www.msvu.ca/
     company_logo: logo-msvu
     location: Halifax, Nova Scotia
     date_start: 2018-08-01
-    date_end: ''
+    date_end: 2023-06-30
 #    description: |2-
 #        Responsibilities include:
 #        
