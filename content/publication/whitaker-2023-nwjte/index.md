@@ -17,7 +17,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-06-19T22:31:27.550Z
+date: 2023-06-19T02:31:27.550Z
 links:
   - name: "Full Text"
     url: https://pdxscholar.library.pdx.edu/nwjte/vol18/iss1/2/
