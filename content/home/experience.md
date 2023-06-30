@@ -29,7 +29,7 @@ experience:
     location: Halifax, Nova Scotia
     date_start: 2027-07-01
     date_end: 
-  - title: Assistant Professor
+  - title: Assistant Professor of Statistics
     company: Mount Saint Vincent University
     company_url: https://www.msvu.ca/
     company_logo: logo-msvu
@@ -43,7 +43,7 @@ experience:
 #        * Modelling
 #        * Deploying
         
-  - title: Assistant Professor
+  - title: Assistant Professor of Mathematics
     company: University of Wisconsin-Stout
     company_url: https://www.uwstout.edu/
     company_logo: logo-stout
