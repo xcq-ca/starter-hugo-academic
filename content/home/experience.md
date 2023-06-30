@@ -25,7 +25,7 @@ experience:
   - title: Associate Professor
     company: Mount Saint Vincent University
     company_url: https://www.msvu.ca/
-    company_logo: logo-msvu
+    company_logo: logo-msvu150.png
     location: Halifax, Nova Scotia
     date_start: 2023-07-01
     date_end: 
