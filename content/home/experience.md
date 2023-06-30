@@ -27,7 +27,7 @@ experience:
     company_url: https://www.msvu.ca/
     company_logo: logo-msvu
     location: Halifax, Nova Scotia
-    date_start: 2027-07-01
+    date_start: 2023-07-01
     date_end: 
   - title: Assistant Professor
     company: Mount Saint Vincent University
