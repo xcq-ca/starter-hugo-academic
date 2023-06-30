@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Associate Professor of Statistics
+  - title: Associate Professor
     company: Mount Saint Vincent University
     company_url: https://www.msvu.ca/
-    company_logo: logo-msvu150
+    company_logo: logo-msvu
     location: Halifax, Nova Scotia
     date_start: 2027-07-01
     date_end: 
-  - title: Assistant Professor of Statistics
+  - title: Assistant Professor
     company: Mount Saint Vincent University
     company_url: https://www.msvu.ca/
     company_logo: logo-msvu
@@ -43,7 +43,7 @@ experience:
 #        * Modelling
 #        * Deploying
         
-  - title: Assistant Professor of Mathematics
+  - title: Assistant Professor
     company: University of Wisconsin-Stout
     company_url: https://www.uwstout.edu/
     company_logo: logo-stout
