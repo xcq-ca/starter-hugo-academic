@@ -32,7 +32,9 @@ experience:
     date_start: 2023-07-01
     date_end: 
   - title: Assistant Professor
-    company: Mount Saint Vincent University
+    company:  |2-
+        Department of Mathematics and Statistics<br />
+        Mount Saint Vincent University
     company_url: https://www.msvu.ca/
     company_logo: logo-msvu
     location: Halifax, Nova Scotia
@@ -46,7 +48,9 @@ experience:
 #        * Deploying
         
   - title: Assistant Professor
-    company: University of Wisconsin-Stout
+    company: |2-
+        Department of Mathematics, Statistics, and Computer Science<br />
+        University of Wisconsin-Stout
     company_url: https://www.uwstout.edu/
     company_logo: logo-stout
     location: Menomonie, Wisconsin
@@ -55,7 +59,9 @@ experience:
 #    description: Taught and researched.
 
   - title: Pre-Doctoral Fellow
-    company: University of Florida
+    company: |2-
+        School of Teaching and Learning
+        University of Florida
     company_url: https://www.ufl.edu/
     company_logo: logo-ufl
     location: Gainesville, Florida
@@ -63,7 +69,9 @@ experience:
     date_end: 2016-08-09
 
   - title: Graduate Assistant
-    company: University of Florida
+    company: |2-
+        Department of Statistics
+        University of Florida
     company_url: https://www.ufl.edu/
     company_logo: logo-ufl
     location: Gainesville, Florida
