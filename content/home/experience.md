@@ -60,7 +60,7 @@ experience:
 
   - title: Pre-Doctoral Fellow
     company: |2-
-        School of Teaching and Learning
+        School of Teaching and Learning<br />
         University of Florida
     company_url: https://www.ufl.edu/
     company_logo: logo-ufl
