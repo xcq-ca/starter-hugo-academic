@@ -49,7 +49,7 @@ experience:
         
   - title: Assistant Professor
     company: |2-
-        Department of Mathematics, Statistics, and Computer Science<br />
+        Mathematics, Statistics, & Computer Science Department<br />
         University of Wisconsin-Stout
     company_url: https://www.uwstout.edu/
     company_logo: logo-stout
@@ -70,7 +70,7 @@ experience:
 
   - title: Graduate Assistant
     company: |2-
-        Department of Statistics
+        Department of Statistics<br />
         University of Florida
     company_url: https://www.ufl.edu/
     company_logo: logo-ufl
