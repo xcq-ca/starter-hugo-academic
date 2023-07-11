@@ -40,13 +40,6 @@ experience:
     location: Halifax, Nova Scotia
     date_start: 2018-08-01
     date_end: 2023-06-30
-#    description: |2-
-#        Responsibilities include:
-#        
-#        * Analysing
-#        * Modelling
-#        * Deploying
-        
   - title: Assistant Professor
     company: |2-
         Mathematics, Statistics, & Computer Science Department<br />
@@ -56,27 +49,6 @@ experience:
     location: Menomonie, Wisconsin
     date_start: 2016-08-22
     date_end: 2018-07-31
-#    description: Taught and researched.
-
-  - title: Pre-Doctoral Fellow
-    company: |2-
-        School of Teaching and Learning<br />
-        University of Florida
-    company_url: https://www.ufl.edu/
-    company_logo: logo-ufl
-    location: Gainesville, Florida
-    date_start: 2012-08-22
-    date_end: 2016-08-09
-
-  - title: Graduate Assistant
-    company: |2-
-        Department of Statistics<br />
-        University of Florida
-    company_url: https://www.ufl.edu/
-    company_logo: logo-ufl
-    location: Gainesville, Florida
-    date_start: 2010-08-23
-    date_end: 2012-08-21
 design:
   columns: '2'
 ---
