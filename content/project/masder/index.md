@@ -29,8 +29,8 @@ image:
   preview_only: false
 weight: 1
 ---
-I am a member of the Motivational Attitudes in Statistics and Data Science Education Research (MASDER) group. While there are many interconnected projects undertaken by members of MASDER, the primary focus now is the development of families of instruments to measure student and instructor attitudes and characteristics of the learning environment in the context: the [Surveys of Motivational Attitudes toward Statistics (SOMAS) and Data Science (SOMADS)](http://sdsattitudes.com/wp/).
+I am a member of the Motivational Attitudes in Statistics and Data Science Education Research (MASDER) group. While there are many interconnected projects undertaken by members of MASDER, the primary focus now is the development of families of instruments to measure student and instructor attitudes and characteristics of the learning environment in the context: the Surveys of Motivational Attitudes toward Statistics (SOMAS) or Data Science (SOMADS) and the Environment, Pedagogy, Institution, and Course (EPIC) inventories. The project homepage is [SDSattitudes.com](http://sdsattitudes.com/) and associated code and data are on [GitHub](https://github.com/SDSattitudes).
 
-This material is based upon work supported by the National Science Foundation under [Grant No. DUE-2013392](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013392&HistoricalAwards=false).
+This material is based upon work supported by the National Science Foundation under [Grant No. DUE-2013392](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013392&HistoricalAwards=false). Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
 <img src="nsf-logo.png" lightbox="false" alt="National Science Foundation logo">
