@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -56,30 +56,41 @@ coordinates:
 #    link: 'https://discourse.gohugo.io'
 
 # Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      text: "Your Name"
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
-
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
 
 # Site features
 
 highlight: true
 highlight_languages:
   - r
-math: false
+math: 
+  enable: false
 diagram: false
-privacy_pack: false
+privacy_pack: 
+  enable: false
 edit_page:
   repo_url: ''
   content_dir: ''
@@ -92,7 +103,7 @@ show_related:
   book: true
   page: false
   post: true
-  project: false
+  project: true
   publication: true
   event: true
 reading_time: true
@@ -141,9 +152,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'mapbox'
-  api_key: 'pk.eyJ1IjoiZGN3aGl0YWtlciIsImEiOiJja3U2YmQyYWkwNG43Mm9uejE3em02NnJrIn0.U-2TCjnrLG_yeDMgNe1mhw'
-  zoom: 7
+  provider: ''
+  api_key: ''
+  zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''
