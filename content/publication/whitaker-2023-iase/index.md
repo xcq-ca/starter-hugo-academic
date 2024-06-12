@@ -24,7 +24,7 @@ image:
   focal_point: Smart
   preview_only: false
 links:
-  - name: "Full Text (within larger proceedings file)“
+  - name: "Full Text (within larger proceedings file)"
     url: https://drive.google.com/file/d/1OWIly9K_MmdiI8bjulyaW8BIcDTczcVl/view 
 date: 2023-06-07T01:10:00.000Z
 
