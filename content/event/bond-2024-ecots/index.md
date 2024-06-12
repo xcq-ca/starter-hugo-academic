@@ -28,5 +28,5 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  
 ---
-{{<youtube A5BpD-32HLQ>}}

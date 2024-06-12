@@ -1,5 +1,5 @@
 ---
-role: Associate Professor
+role: Associate Professor of Statistics
 interests:
   - Statistics Education
   - Educational Measurement
