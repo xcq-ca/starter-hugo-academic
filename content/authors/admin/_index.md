@@ -41,9 +41,13 @@ education:
 superuser: true
 highlight_name: true
 title: Douglas Whitaker
----
-Douglas Whitaker is an Associate Professor in the Department of Mathematics and Statistics at Mount Saint Vincent University in Halifax, Nova Scotia. Dr. Whitaker completed his PhD in Statistics Education at the University of Florida, and he was previously an Assistant Professor in the Department of Mathematics, Statistics, and Computer Science at the University of Wisconsin-Stout.
 
-Dr. Whitaker’s research areas are: improving the teaching and learning of statistics and developing high-quality tests and instruments. His current work focuses on measuring attitudes. He is a member of the *Motivational Attitudes in Statistics and Data Science Education Research* (MASDER) team and is Co-PI on an NSF-funded grant to develop a family of instruments for use with students and their instructors ([DUE #2013392](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013392&HistoricalAwards=false)). Dr. Whitaker also researches the use of non-Likert-type items for measuring attitudes, particularly Evaluative Space Grid (ESG) items. Previously, he was a graduate student on the NSF-funded *Levels of Conceptual Understanding in Statistics* (LOCUS) project and continues to use and document validity evidence using these assessments. In 2017, Dr. Whitaker was named as an AMTE STaR Fellow. 
+---
+Douglas Whitaker is an Associate Professor in the Department of Mathematics and Statistics at Mount Saint Vincent University in Halifax, Nova Scotia. Dr. Whitaker’s primary research area is developing and evaluating psychometrically valid instruments for use in educational contexts. Additionally, he is broadly interested in the teaching and learning of statistics and data science and provides statistical consulting services across disciplines. 
+
+Dr. Whitaker’s current work focuses on measuring attitudes, and he is a member of the Motivational Attitudes in Statistics and Data Science Education Research (MASDER) team. As a member of the MASDER team, he is a Co-PI on an NSF-funded grant to develop a family of instruments for use with students and instructors to holistically measure attitudes and characteristics of the learning environment in statistics and data science education contexts ([DUE #2013392](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2013392&HistoricalAwards=false)). Dr. Whitaker also studies the use of non-Likert-type items for measuring attitudes. 
+
+Dr. Whitaker attended the University of Florida, where he earned his master’s degree in Statistics in 2012 and doctorate in Statistics Education in 2016. As a graduate student, he served as a member of the NSF-funded Levels of Conceptual Understanding in Statistics (LOCUS) test development project. 
+
 
 {{< icon name="download" pack="fas" >}} {{% staticref "uploads/whitaker-cv.pdf" %}}Download my CV.{{% /staticref %}}
