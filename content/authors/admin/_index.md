@@ -50,4 +50,4 @@ Dr. Whitaker’s current work focuses on measuring attitudes, and he is a member
 Dr. Whitaker attended the University of Florida, where he earned his master’s degree in Statistics in 2012 and doctorate in Statistics Education in 2016. As a graduate student, he served as a member of the NSF-funded [Levels of Conceptual Understanding in Statistics](https://locus.statisticseducation.org/) (LOCUS; [DRL-1118168](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1118168&HistoricalAwards=false)) test development project. 
 
 
-{{< icon name="download" pack="fas" >}} {{% staticref "uploads/whitaker-cv.pdf" %}}Download my CV.{{% /staticref %}}
+#{{< icon name="download" pack="fas" >}} {{% staticref "uploads/whitaker-cv.pdf" %}}Download my CV.{{% /staticref %}}
